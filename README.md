@@ -1,7 +1,9 @@
 | |Name|Rating|+/-|Exp|
 |-|:---|:----:|:-:|--:|
 |1|Modi|1,804|+4.5|5|
-|2|Pradyot|1,796|-4.5|5|
+|2|Amandine|1,804|+4.5|5|
+|3|Pradyot|1,796|-4.5|5|
+|4|Geraldine|1,796|-4.5|5|
 
 
 Follow section contains general information and short instructions.
